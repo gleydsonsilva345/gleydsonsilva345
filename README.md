@@ -2,7 +2,7 @@
 - 👀 Estou Interessado em Mecanica
 - 🌱 Atualmente estou aprendendo A ser um Mecanico
 - 💞️ Estou procurando colaborar em 
-- 📫 How to reach me ...
+- 📫 Como chegar até mim gleydson.silva@escola.pr.gov.br
 
 <!---
 gleydsonsilva345/gleydsonsilva345 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
