@@ -1,7 +1,7 @@
 - 👋 Ola. Eu sou o Gleydson
-- 👀 Estou Interessado em Mecanica
-- 🌱 Atualmente estou aprendendo A ser um Mecanico
-- 💞️ Estou procurando colaborar em 
+- 👀 Estou Interessado em Programaçao do Scratch e JavaScript
+- 🌱 Atualmente estou aprendendo Progamação
+- 💞️ Estou procurando colaborar em HTML
 - 📫 Como chegar até mim gleydson.silva@escola.pr.gov.br
 
 <!---
